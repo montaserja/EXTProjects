@@ -1,0 +1,28 @@
+Script started on 2019-09-09 23:16:46-0700
+ls
+a.out  ExcellentTeam  typescript
+cd ExcellentTeam/
+cd.
+
+Command 'cd.' not found, did you mean:
+
+  command 'cdb' from deb tinycdb
+  command 'cdw' from deb cdw
+  command 'cdo' from deb cdo
+  command 'cde' from deb cde
+  command 'cd5' from deb cd5
+  command 'cdi' from deb cdo
+  command 'cdp' from deb irpas
+  command 'cdv' from deb codeville
+
+Try: sudo apt install <deb name>
+
+cd ..
+pwd
+/home/montaserja/Desktop
+k
+k: command not found
+exit
+exit
+
+Script done on 2019-09-09 23:17:50-0700

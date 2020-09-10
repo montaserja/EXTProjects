@@ -1,0 +1,18 @@
+Script started on 2019-09-09 08:38:54-0700
+]0;montaserja@ubuntu: ~[01;32mmontaserja@ubuntu[00m:[01;34m~[00m$ python3
+Python 3.6.8 (default, Jan 14 2019, 11:02:34)
+[GCC 8.0.1 20180414 (experimental) [trunk revision 259383]] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> x=0
+>>> print(x)
+0
+>>> x=5
+>>> f=x
+>>> x=4[K7
+>>> p[Kprintf[K()[C[Kx)
+7
+>>> exit()
+]0;montaserja@ubuntu: ~[01;32mmontaserja@ubuntu[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2019-09-09 08:40:24-0700

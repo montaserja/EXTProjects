@@ -1,0 +1,28 @@
+Script started on 2019-09-09 23:16:46-0700
+]0;montaserja@ubuntu: ~/Desktop[01;32mmontaserja@ubuntu[00m:[01;34m~/Desktop[00m$ ls
+[0m[01;32ma.out[0m  [01;34mExcellentTeam[0m  typescript
+]0;montaserja@ubuntu: ~/Desktop[01;32mmontaserja@ubuntu[00m:[01;34m~/Desktop[00m$ cd ExcellentTeam/
+]0;montaserja@ubuntu: ~/Desktop/ExcellentTeam[01;32mmontaserja@ubuntu[00m:[01;34m~/Desktop/ExcellentTeam[00m$ cd.
+
+Command 'cd.' not found, did you mean:
+
+  command 'cdb' from deb tinycdb
+  command 'cdw' from deb cdw
+  command 'cdo' from deb cdo
+  command 'cde' from deb cde
+  command 'cd5' from deb cd5
+  command 'cdi' from deb cdo
+  command 'cdp' from deb irpas
+  command 'cdv' from deb codeville
+
+Try: sudo apt install <deb name>
+
+]0;montaserja@ubuntu: ~/Desktop/ExcellentTeam[01;32mmontaserja@ubuntu[00m:[01;34m~/Desktop/ExcellentTeam[00m$ cds[K ..
+]0;montaserja@ubuntu: ~/Desktop[01;32mmontaserja@ubuntu[00m:[01;34m~/Desktop[00m$ pwd
+/home/montaserja/Desktop
+]0;montaserja@ubuntu: ~/Desktop[01;32mmontaserja@ubuntu[00m:[01;34m~/Desktop[00m$ k
+k: command not found
+]0;montaserja@ubuntu: ~/Desktop[01;32mmontaserja@ubuntu[00m:[01;34m~/Desktop[00m$ exi[Kitr[K
+exit
+
+Script done on 2019-09-09 23:17:50-0700
