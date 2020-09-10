@@ -1,0 +1,7 @@
+cpp2c_encapsulation_defs.o: cpp2c_encapsulation_defs.cpp \
+ cpp2c_encapsulation_defs.h
+cpp2c_inheritance.o: cpp2c_inheritance.cpp cpp2c_inheritance_defs.h \
+ cpp2c_encapsulation_defs.h
+cpp2c_encapsulation.o: cpp2c_encapsulation.cpp cpp2c_encapsulation_defs.h
+cpp2c_inheritance_defs.o: cpp2c_inheritance_defs.cpp \
+ cpp2c_inheritance_defs.h cpp2c_encapsulation_defs.h

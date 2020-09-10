@@ -1,0 +1,3 @@
+cpp2c_polymorphism.o: cpp2c_polymorphism.cpp cpp2c_polymorphism_defs.h
+cpp2c_polymorphism_defs.o: cpp2c_polymorphism_defs.cpp \
+ cpp2c_polymorphism_defs.h
