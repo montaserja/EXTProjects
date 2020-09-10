@@ -1,0 +1,3 @@
+class neculetide ->m_nuc
+
+class DnaSequence have an array of neculetide
