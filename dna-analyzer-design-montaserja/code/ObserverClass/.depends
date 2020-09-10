@@ -1,0 +1,4 @@
+​nucleotide.o: ​nucleotide.cpp nucleotide.h
+DnaSequence.o: DnaSequence.cpp DnaSequence.h nucleotide.h
+observer.o: observer.cpp
+main.o: main.cpp find.h observer.h DnaSequence.h nucleotide.h
